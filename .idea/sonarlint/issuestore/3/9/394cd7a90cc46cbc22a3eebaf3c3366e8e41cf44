@@ -1,0 +1,29 @@
+
+>
+java:S1185,"(Remove this method to simply inherit it.(ìÔ»Â
+V	java:S125\"<This block of commented-out lines of code should be removed.(Ò“þ¼øÿÿÿÿ
+_
+java:S2184K"DCast one of the operands of this subtraction operation to a "float".(‰ˆååþÿÿÿÿ
+Q	java:S125d"<This block of commented-out lines of code should be removed.(ØÛ˜Ò
+Q	java:S125“"<This block of commented-out lines of code should be removed.(ò£§X
+R	java:S125Ò"<This block of commented-out lines of code should be removed.(‹àÆ 
+A
+java:S1481W"&Remove this unused "x" local variable.(Ç¥¬ûùÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ºÃØ
+0
+java:S1220""Move this file to a named package.
+W	java:S125"<This block of commented-out lines of code should be removed.(˜˜Æûÿÿÿÿ
+[
+java:S2184Ó"DCast one of the operands of this subtraction operation to a "float".(ªÁ¾×
+V	java:S125E"<This block of commented-out lines of code should be removed.(òÜõ¶üÿÿÿÿ
+>
+java:S1185'"(Remove this method to simply inherit it.(¸Û®µ
+V	java:S125q"<This block of commented-out lines of code should be removed.(ÀŠÀíüÿÿÿÿ
+P
+java:S1854W"5Remove this useless assignment to local variable "x".(Ç¥¬ûùÿÿÿÿ
+W	java:S125‹"<This block of commented-out lines of code should be removed.(˜˜Æûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(˜˜Æûÿÿÿÿ
+V	java:S125}"<This block of commented-out lines of code should be removed.(¦Ž–­ÿÿÿÿÿ
+\
+java:S3078u"AUse an "AtomicInteger" for this field; its operations are atomic.(‡­È³ùÿÿÿÿ

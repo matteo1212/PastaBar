@@ -1,0 +1,34 @@
+<idea-plugin>
+  <id>mr.pasta</id>
+  <name>Pasta Progress Bar Zi</name>
+  <version>1.1</version>
+  <idea-version since-build="192"/>
+  <vendor email="a.passamonte90@gmail.com">Mr Pasta</vendor>
+
+  <description><![CDATA[
+      Pretty progress bars with Pasta for IJ based IDEs.
+    ]]></description>
+
+  <change-notes><![CDATA[
+      <em>1.0 creation</em><br>
+    ]]>
+  </change-notes>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+       on how to target different products -->
+  <depends>com.intellij.modules.platform</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <!-- Add your extensions here -->
+  </extensions>
+
+  <actions>
+    <!-- Add your actions here -->
+  </actions>
+
+  <application-components>
+    <component>
+      <implementation-class>PastaApplicationComponent</implementation-class>
+    </component>
+  </application-components>
+</idea-plugin>
